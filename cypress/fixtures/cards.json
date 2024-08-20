@@ -1,0 +1,11 @@
+{
+    "cards": [
+      { "cardName": "Sign up for Trello", "listName": "Todo" },
+      { "cardName": "Get key and token", "listName": "Todo" },
+      { "cardName": "Build a collection", "listName": "Todo" },
+      { "cardName": "Working on Task", "listName": "Todo" },
+      { "cardName": "UI Automation", "listName": "Backlog" },
+      { "cardName": "Writing Test Scenarios", "listName": "Backlog" }
+    ]
+  }
+  

@@ -1,0 +1,30 @@
+# Cypress test results
+cypress/screenshots/
+cypress/videos/
+
+# Cypress cache (optional, can be useful for CI environments)
+.cypress/
+
+# Environment files (if applicable)
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files (e.g., VSCode, IntelliJ)
+.vscode/
+.idea/
+*.swp
+
+# Build directories (if any)
+dist/
+build/
